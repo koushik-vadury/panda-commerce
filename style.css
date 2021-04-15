@@ -6,3 +6,10 @@
 .full_carousel {
   margin-top: 50px;
 }
+
+#btn-cls {
+  width: 35px;
+  height: 35px;
+  background-color: rgba(0, 0, 0, 0.034);
+  
+}
