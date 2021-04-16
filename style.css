@@ -11,5 +11,37 @@
   width: 35px;
   height: 35px;
   background-color: rgba(0, 0, 0, 0.034);
-  
+}
+.cat1,
+.cat2,
+.cat3 {
+  border-radius: 10px;
+  height: 120px;
+}
+.col-3 img {
+  width: 100px;
+  margin-left: 80px;
+}
+.cat1 {
+  background-color: orange;
+}
+.cat2 {
+  background-color: purple;
+}
+.cat3 {
+  background-color: blue;
+}
+h4 {
+  color: white;
+}
+#shoes .h-100 {
+  border-radius: 10px;
+  box-shadow: 5px 5px 30px gray;
+}
+#categories {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.col-3 {
+  display: flex;
 }
